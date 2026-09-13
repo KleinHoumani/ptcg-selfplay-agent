@@ -1,0 +1,4 @@
+torch==2.12.1
+numpy==2.4.6
+requests==2.34.2       # analysis/limitless_majors scrapers only
+# transformers==5.12.1 # only pipeline/embeddings/export_qwen3-embedding-8b_embeddings.py

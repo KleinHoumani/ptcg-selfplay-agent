@@ -1,0 +1,17 @@
+# competition data and engine: never committed
+cg/
+data/
+engine_src/
+
+# model weights and bundles
+/models/
+*.pt
+*.tar.gz
+
+# training run outputs (train_ppo.py writes runs/<run-name>/)
+runs/
+
+# python
+__pycache__/
+*.pyc
+.venv/
